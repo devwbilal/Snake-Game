@@ -1,25 +1,46 @@
-# Snake Game
+# Snake Game 🐍
 
-A classic Snake game, built using HTML, CSS, and JavaScript. The objective of the game is to make the snake as long as possible without running into the walls or its own tail.
+A simple Snake game implemented using HTML, CSS, and JavaScript. Play the classic Snake game, control the snake with arrow keys, and eat the food to grow longer. Avoid hitting the walls or colliding with yourself!
 
-## How to Play
+📷 Screenshot:
 
-- The game is played on a grid and the snake moves in one direction at a time.
-- The player controls which direction the snake goes by using the arrow keys on the keyboard.
-- As the snake eats the food, it grows longer, and the player must navigate the increasingly complex maze formed by the snake's body.
-- If the snake runs into the walls or its own tail, the game is over and the player must start again.
+![Snake Game Screenshot](screenshots/screenshot.png)
 
 ## Features
 
-- Simple and intuitive controls
-- Increasing difficulty as the snake grows longer
-- Timeless gameplay that can be enjoyed by people of all ages
-- Built using HTML, CSS, and JavaScript for a fast and responsive experience
+💻 Responsive design with flat UI and Material UI styles.
+⌨️ Keyboard controls to navigate the snake (Arrow keys).
+🍎 Randomly generated food for the snake to eat.
+🏆 Score display to keep track of the player's score.
+❌ Game over message with a restart option.
 
-## Contributions
+## Technologies Used
 
-We welcome contributions to this project. If you find a bug or have an idea for a new feature, please open an issue or submit a pull request.
+🔧 HTML
+🎨 CSS
+💻 JavaScript
+
+## Getting Started
+
+To play the Snake game on your local machine, follow these steps:
+
+1. Clone this repository to your local machine using `git clone` or download the ZIP file.
+2. Navigate to the cloned or extracted directory.
+3. Open the `index.html` file in your web browser.
+4. Use the arrow keys to control the snake.
+5. Eat the food and grow longer, but avoid hitting the walls or colliding with yourself.
+6. When the game ends, click "OK" on the alert box to restart the game.
+
+## Contributing
+
+🤝 Contributions are welcome! If you would like to contribute to this Snake game project, please follow these steps:
+
+1. Fork this repository.
+2. Create a new branch with a descriptive name for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push your changes to your forked repository.
+5. Create a pull request to merge your changes into the main repository.
 
 ## License
 
-This project is licensed under the GPL-3.0 license.
+📝 This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for more information.
